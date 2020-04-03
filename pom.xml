@@ -11,9 +11,9 @@
     </parent>
 
     <groupId>com.open</groupId>
-    <artifactId>open-happy</artifactId>
+    <artifactId>auto-tool</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>open-happy</name>
+    <name>auto-tool</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
